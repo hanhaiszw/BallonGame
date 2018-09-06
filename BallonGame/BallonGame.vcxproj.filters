@@ -30,9 +30,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="题目描述.doc">
-      <Filter>Header Files</Filter>
-    </None>
-  </ItemGroup>
 </Project>
